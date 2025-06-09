@@ -1,6 +1,6 @@
 # Hi there, I'm Moskalenko Miron! 👋  
 
-**Java/C++ Developer| Flutter Enthusiast | Hackathon enjoyer**  
+**Java/C++ Developer | Flutter Enthusiast | Hackathon enjoyer**  
 
 ### 🔧 **Tech Stack**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
