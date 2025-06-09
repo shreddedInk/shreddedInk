@@ -11,9 +11,9 @@
 
 ### 🔥 **My Projects**  
 - **[Translator](https://github.com/shreddedInk/Translator)** – Translator from PascalABC to Java.
-- **[Graph](https://gitlab.com/buchvan/dependency_graph)** – Graph of mathematical knowledge dependencies from [BMM](https://great-math.ru/project/44).  
 - **[Java labs](https://github.com/shreddedInk/JavaLabs)** - Just my labs for Java course of Omsu.
-- **[Cpp labs](https://github.com/shreddedInk/cppLabsSecondCourse)** - Labs for C++ course of Omsu. 
+- **[Cpp labs](https://github.com/shreddedInk/cppLabsSecondCourse)** - Labs for C++ course of Omsu.
+- **[Graph](https://great-math.ru/project/44)** – Graph of mathematical knowledge dependencies from [BMM](https://bmm.mca.nsu.ru/about).  
 
 ### 📊 **GitHub Stats**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreddedInk&show_icons=true&theme=dark&hide_title=true)](https://github.com/shreddedInk)  
