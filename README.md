@@ -7,7 +7,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 
-### 🎮 **My Projects**  
+### 🔥 **My Projects**  
 - **[Translator](https://github.com/shreddedInk/Translator)** – Translator from PascalABC to Java.
 - **[Graph](https://gitlab.com/buchvan/dependency_graph)** – Graph of mathematical knowledge dependencies from [BMM](https://great-math.ru/project/44).  
 - **[Java labs](https://github.com/shreddedInk/JavaLabs)** - Just my labs for Java course of Omsu.
