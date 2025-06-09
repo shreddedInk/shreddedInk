@@ -1,4 +1,4 @@
-# Hi there, I'm {Moskalenko Miron}! 👋  
+# Hi there, I'm Moskalenko Miron! 👋  
 
 **Java/C++ Developer| Flutter Enthusiast | Hackathon enjoyer**  
 
