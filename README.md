@@ -14,8 +14,8 @@
 - **[Cpp labs](https://github.com/shreddedInk/cppLabsSecondCourse)** - Labs for C++ course of Omsu.
 
 ### 📊 **GitHub Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/shreddedInk)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/shreddedInk)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreddedInk&show_icons=true&theme=dark)](https://github.com/shreddedInk)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreddedInk&layout=compact&theme=vision-friendly-dark)](https://github.com/shreddedInk)  
 
 ### 🌟 **Fun Fact**  
 When I’m not coding, I’m min-max in Limbus Company *or* fixing my VAZ 2107.  
