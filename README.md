@@ -10,10 +10,10 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ### 🔥 **My Projects**  
-[![Translator](https://github-readme-stats.vercel.app/api/pin/?username=shreddedInk&repo=Translator&theme=dark)](https://github.com/shreddedInk/Translator)  
-[![Graph](https://github-readme-stats.vercel.app/api/pin/?username=shreddedInk&repo=dependency_graph&theme=dark)](https://gitlab.com/buchvan/dependency_graph)  
-[![Java Labs](https://github-readme-stats.vercel.app/api/pin/?username=shreddedInk&repo=JavaLabs&theme=dark)](https://github.com/shreddedInk/JavaLabs)  
-[![C++ Labs](https://github-readme-stats.vercel.app/api/pin/?username=shreddedInk&repo=cppLabsSecondCourse&theme=dark)](https://github.com/shreddedInk/cppLabsSecondCourse)  
+- **[Translator](https://github.com/shreddedInk/Translator)** – Translator from PascalABC to Java.
+- **[Graph](https://gitlab.com/buchvan/dependency_graph)** – Graph of mathematical knowledge dependencies from [BMM](https://great-math.ru/project/44).  
+- **[Java labs](https://github.com/shreddedInk/JavaLabs)** - Just my labs for Java course of Omsu.
+- **[Cpp labs](https://github.com/shreddedInk/cppLabsSecondCourse)** - Labs for C++ course of Omsu. 
 
 ### 📊 **GitHub Stats**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreddedInk&show_icons=true&theme=dark&hide_title=true)](https://github.com/shreddedInk)  
