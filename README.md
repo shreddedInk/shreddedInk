@@ -1,13 +1,11 @@
 # Hi there, I'm Moskalenko Miron! 👋  
 
-**Java/C++ Developer | Flutter Enthusiast | Hackathon Enjoyer | Arch Linux User**  
+**Java/C++ Developer | Hackathon Enjoyer | Ubuntu User**  
 
 ### 🔧 **Tech Stack**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ### 🔥 **My Projects**  
 - **[Translator](https://github.com/shreddedInk/Translator)** – Translator from PascalABC to Java.
@@ -23,7 +21,7 @@
 When I'm not coding, I'm either:  
 - Min-maxing in Limbus Company 🎮  
 - Fixing my VAZ 2107 🔧  
-- Or customizing my Arch Linux setup 🐧  
+- Or working with my Ubuntu setup 🐧  
 
 📫 **Reach me:**  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/shredded_Ink)
