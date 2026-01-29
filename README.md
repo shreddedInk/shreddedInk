@@ -19,7 +19,7 @@
 
 ### 🌟 **Fun Fact**  
 When I'm not coding, I'm either:  
-- Min-maxing in Limbus Company 🎮  
+- Workout in GYM 
 - Fixing my VAZ 2107 🔧  
 - Or working with my Ubuntu setup 🐧  
 
