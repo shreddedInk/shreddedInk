@@ -9,8 +9,6 @@
 
 ### 🔥 **My Projects**  
 - **[Translator](https://github.com/shreddedInk/Translator)** – Translator from PascalABC to Java.
-- **[Java labs](https://github.com/shreddedInk/JavaLabs)** - Just my labs for Java course of Omsu.
-- **[Cpp labs](https://github.com/shreddedInk/cppLabsSecondCourse)** - Labs for C++ course of Omsu.
 - **[Graph](https://great-math.ru/project/44)** – Graph of mathematical knowledge dependencies from [BMM](https://bmm.mca.nsu.ru/about).  
 
 📫 **Reach me:**  
